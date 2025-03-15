@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paoloe
 - 👀 I’m always interested in new technologies
-- 🌱 I’m currently learning JavaScript and UI5 a JS framework
-- 💞️ I’m looking to collaborate on anything just get in contact!
+- 🌱 I’m currently learning Java and Spring framework
 - 📫 How to reach me : paoloespiritu@outlook.com
 
 <!---
